@@ -18,9 +18,11 @@ Method:
 
 Finished:
 
-![alt text](../screenshots/spelt_sourdough_finished.jpg "Finished Spelt Sourdough")
+![alt text](../images/spelt_sourdough_finished.jpg "Finished Spelt Sourdough")
 
 NOTES:
 Dough rose too much at the proving stage which made it difficult to turn out onto the baking tray without the dough becoming flattened. This led to a large but pretty flat loaf that didn't rise as high as intended. Possibly try a longer ininital rise, before knocking back and allowing a shorter prove time. 
 
- 
+UPDATE:
+The bread actually turned out quite well- the slices were long but not high so there was still quite a bit of air in the bread. The bread also had a very crunchy crust due to the sourdough.
+![alt text](../images/spelt_sourdough_slice.jpg "Spelt Sourdough Sliced") 
