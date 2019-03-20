@@ -16,6 +16,9 @@ Method:
 5. Turn the dough ball onto a floured baking tray and make some score marks with a sharp knife or blade on the top of the dough, before placing the dough in the oven.
 6. Bake for 25-35 minutes.
 
+Rising dough
+![alt text](../images/spelt_sourdough_rising.jpg "Spelt sourdough rising")
+
 Finished:
 
 ![alt text](../images/spelt_sourdough_finished.jpg "Finished Spelt Sourdough")
