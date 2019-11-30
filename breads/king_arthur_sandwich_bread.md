@@ -11,3 +11,7 @@ This is the bread after coming out of the oven:
 
 This is the bed cooled and sliced:
 ![alt text](../images/sandwich_bread_sliced.jpg "Sandwich bread after cooling and slicing")
+
+
+Update:
+I made this for a second time, this time with white sugar, a slightly higher and wider silicone loaf tray, and added a slash to the top and some seeds. It could possibly have done with a shallower slash, but it turned out well, was very soft and fluffy and great for sandwiches. ![alt text](../images/sandwich_bread_2_collage.jpg "Collage of KAF sandwich bread second attempt")
